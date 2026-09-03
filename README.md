@@ -17,7 +17,9 @@
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,supabase,postgres,python,ai,powerbi,excel,git,github,vscode,tailwind&perline=7" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,typescript,supabase,postgres,python&perline=7" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=ai,powerbi,excel,git,github,vscode,tailwind&perline=7" />
 </p>
 
 ---
