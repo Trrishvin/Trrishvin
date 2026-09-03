@@ -30,8 +30,5 @@
 
 ---
 
-### 🌟 Profile Visitors
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Trrishvin&label=Profile%20Views&color=39D353&style=flat-square" alt="Profile Views" />
-</p>
+
