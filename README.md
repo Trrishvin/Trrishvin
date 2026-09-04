@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Trrishvin 👋 <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm Trrishvin  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=39D353&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%26+Next.js+Specialist;Building+with+AI+%26+Supabase;Bridging+Code+with+Data+Analytics" alt="Typing SVG" />
